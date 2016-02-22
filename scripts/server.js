@@ -8,5 +8,5 @@ server.init({
     baseDir: 'src',
     index: 'index.html'
   },
-  files: ['/src/**/*']
+  files: ['./src/**/*']
 });
