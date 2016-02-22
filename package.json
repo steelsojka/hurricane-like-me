@@ -1,0 +1,22 @@
+{
+  "name": "hurricane-like-me",
+  "version": "1.0.0",
+  "description": "Hurricane Like Me public site",
+  "scripts": {
+    "start": "node scripts/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelsojka/hurricane-like-me.git"
+  },
+  "author": "Steven Sojka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steelsojka/hurricane-like-me/issues"
+  },
+  "homepage": "https://github.com/steelsojka/hurricane-like-me#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1"
+  }
+}
